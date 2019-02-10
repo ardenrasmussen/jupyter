@@ -18,10 +18,18 @@ jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
 jupyter-core==4.4.0
+jupyter-highlight-selected-word==0.2.0
+jupyter-latex-envs==1.4.6
+jupyter-nbextensions-configurator==0.4.1
+jupyterlab==0.35.4
+jupyterlab-server==0.2.0
 jupyterthemes==0.20.0
 kiwisolver==1.0.1
 lesscpy==0.13.0
+lxml==4.3.0
 MarkupSafe==1.1.0
 matplotlib==3.0.2
 metakernel==0.20.14
@@ -43,7 +51,9 @@ ptyprocess==0.6.0
 Pygments==2.3.1
 pynvim==0.3.2
 pyparsing==2.3.1
+PyQt5-sip==4.19.13
 python-dateutil==2.8.0
+PyYAML==3.13
 pyzmq==17.1.2
 qtconsole==4.4.3
 Send2Trash==1.5.0
@@ -55,3 +65,4 @@ traitlets==4.3.2
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.4.2
+yapf==0.25.0
